@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jelome!
 
-- 🔭 I’m currently working on ... [rhbp](https://github.com/ejelome/rhbp) _(React Hooks Boilerplate)_
+- 🔭 I’m currently working on ... [react-chat](https://github.com/ejelome/react-chat) _(Learn React and Firebase with a chatroom)_
 - 🌱 I’m currently learning ... [React](https://reactjs.org) and its ecosystem
 - 👯 I’m looking to collaborate on ... any projects here that might interests you
 - 🤔 I’m looking for help with ... projects that I can possibly contribute
