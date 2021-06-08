@@ -7,4 +7,4 @@
 - 💬 Ask me about ... any meaningful discussions, even outside computers :)
 - 📫 How to reach me: ... [ejelome@gmail.com](mailto:ejelome@gmail.com)
 - 😄 Pronouns: ... he, him
-- ⚡ Fun fact: ... I use [Emacs](https://gnu.org/software/emacs) ([Spacemacs](https://spacemacs.org)) 😍
+- ⚡ Fun fact: ... I use [Emacs](https://gnu.org/software/emacs) ([Spacemacs](https://www.spacemacs.org)) 😍
